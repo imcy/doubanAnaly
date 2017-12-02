@@ -17,3 +17,5 @@
 ```python
 start_urls = ['https://movie.douban.com/subject/26801052/comments?start=0&limit=20&sort=new_score&status=P']
 ```
+完成分析后结果如图
+![](https://github.com/imcy/doubanAnaly/blob/master/2017-09-18%2010-39-01%E5%B1%8F%E5%B9%95%E6%88%AA%E5%9B%BE.png)
